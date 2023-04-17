@@ -12,6 +12,8 @@ At first, Arnbjorn was content with his newfound knowledge. He spent centuries s
 
 Now, Arnbjorn serves as a cautionary tale, a warning to those who seek knowledge at any cost. He remains trapped in his crystal prison, a living embodiment of the dangers of making deals with Daedric princes.
 
+![fc5ad10c74b7ca801354122e18e49244df19a6c7e2c2e43027a905a03576a091](https://user-images.githubusercontent.com/66022524/232525448-856478e3-6113-4d04-9fa3-516121aa34e6.png)
+
 (In short, a discord bot based on the latest interactions.py that takes user input and uses that as a query for text completion based on our dataset)
   
 Dataset from https://github.com/jd7h/sentiment-lexicon-skyrim
